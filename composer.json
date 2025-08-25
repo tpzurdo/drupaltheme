@@ -1,0 +1,7 @@
+{
+  "name": "tpzurdo/drupaltheme",
+  "type": "drupal-custom-theme",
+  "require": {
+    "composer/installers": "^2.0"
+  }
+}
