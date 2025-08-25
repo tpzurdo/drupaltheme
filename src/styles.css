@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* If auto detection misses Twig, point Tailwind at your sources explicitly */
+@source "./templates/**/*.html.twig";
