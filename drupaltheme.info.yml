@@ -3,5 +3,8 @@ type: theme
 description: Tailwind demo theme
 core_version_requirement: ^10 || ^11
 base theme: stable9
+components:
+  drupaltheme:
+    path: components
 libraries:
   - mytheme/global-styling

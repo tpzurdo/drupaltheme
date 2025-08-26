@@ -1,0 +1,18 @@
+name: Card
+description: A reusable card component.
+status: stable
+type: theme
+
+props:
+  title:
+    type: string
+    label: Card title
+  body:
+    type: string
+    label: Card body
+  image:
+    type: string
+    label: Image URL
+  url:
+    type: string
+    label: Link URL
